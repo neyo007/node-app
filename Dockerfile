@@ -1,7 +1,7 @@
 FROM node:carbon
 
 
-# Create app directory
+# Create app directory for container#
 WORKDIR /usr/src/app
 
 # Install app dependencies
