@@ -1,4 +1,4 @@
-FROM node:carbon
+FROM node:16.19-bullseye-slim
 
 
 # Create app directory for container#
